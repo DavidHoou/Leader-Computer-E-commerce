@@ -1,0 +1,37 @@
+[{
+   "impriments": {
+     "type": "Ordinateurs & Périphériques",
+     "sideMenu": [
+       "Imprimantes matricielles",
+       "Imprimantes jet d'encre ou laser",
+       "Imprimantes multi-fonctions",
+       "Imprimantes Professionnelles",
+       "Imprimantes d'étiquettes"
+     ],
+     "marque": [
+       "Epson",
+       "Canon",
+       "Génirique",
+       "Canon Ink Cart",
+       "Sans Marque",
+       "Xerox",
+       "HP",
+       "Epson Printers",
+       "XPrinter"
+     ]
+   },
+   "laptop":{
+    "type": "Ordinateurs & Périphériques",
+    "sideMenu": [
+      "Laptops, ordinateurs portables"
+    ],
+    "marque": [
+      "Acer",
+      "Samsung",
+      "Azus",
+      "Dell",
+      "HP",
+      "Lenovo"
+    ]
+   }
+ }]

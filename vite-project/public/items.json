@@ -1,0 +1,521 @@
+[
+    {
+      "id": 0,
+      "img": "../public/laptop.jpg",
+      "imgHoverOne": "../public/laptop-img-2.jpg",
+      "imgHoverTwo": "../public/laptop-img-3.jpg",
+      "imgHoverThree": "../public/laptop-img-4.jpg",
+      "name": "Original Mobile Android Dual SIM",
+      "price": "145,000",
+      "old_price":" 169,000",
+      "sold":20,
+      "caractéristiques":[
+        "LENOVO IDEAPAD 1",
+        "15 IAU7",
+        "2023",
+        "CPU INTEL CORE I5 1235U 3.3GHZ",
+        "BOOST 4.4GHZ 10CORES 12 THREADS",
+        "12 MO CACHE",
+        "RAM 8GO DDR4X 3200MHZ",
+        "DISQUE 512GO SSD NVME",
+        "WIFI/BLUETOOTH/WEB CAM",
+        "USB 3.1",
+        "GRAPHIC",
+        "INTEL UHD GRAPHIC",
+        "'ECRAN 15.6' HD LED",
+        "ANTIREFLET",
+        "AZERTY"
+      ],
+      "DescTech":[
+        "SKU:LE018CL0JYLZGNAFAMZ",
+        "Modèle:IDEAPAD 1 15IAU7",
+        "Poids (kg):2",
+        "Couleur:SILVER"
+      ],
+      "reviews":[
+        {"name":"Chikh-Salah Ali", "username":"@CS_ali","img":"../../public/profile.png","opinion":"This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .","reviewDate":"12-05-2024","rate":"4.0"},
+        {"name":"Hadj-Moussa Said", "username":"@HM_ahmed","img":"../../public/man.png","opinion":"This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.","reviewDate":"31-08-2022","rate":"3.0"},
+        {"name":"Bahadi Mohammed", "username":"@b_moh","img":"../../public/man.png","opinion":"This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.","reviewDate":"24-06-2024","rate":"5.0"},
+        {"name":"Dermoune Djaber", "username":"@max_free","img":"../../public/user.png","opinion":"This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.","reviewDate":"10-10-2023","rate":"4.0"}
+      ]
+
+    },
+    {
+      "id": 1,
+      "img": "../src/imgs/product-3.jpg",
+      "img_hover": "../src/imgs/product4.jpg",
+      "name": "Original Mobile Android Dual SIM",
+      "price": "145,000",
+      "old_price":" 169,000",
+      "caractéristiques":[
+        "LENOVO IDEAPAD 1",
+        "15 IAU7",
+        "2023",
+        "CPU INTEL CORE I5 1235U 3.3GHZ",
+        "BOOST 4.4GHZ 10CORES 12 THREADS",
+        "12 MO CACHE",
+        "RAM 8GO DDR4X 3200MHZ",
+        "DISQUE 512GO SSD NVME",
+        "WIFI/BLUETOOTH/WEB CAM",
+        "USB 3.1",
+        "GRAPHIC",
+        "INTEL UHD GRAPHIC",
+        "'ECRAN 15.6' HD LED",
+        "ANTIREFLET",
+        "AZERTY"
+      ],
+      "DescTech":[
+        "SKU:LE018CL0JYLZGNAFAMZ",
+        "Modèle:IDEAPAD 1 15IAU7",
+        "Poids (kg) : 2",
+        "Couleur:SILVER"
+      ]
+    },
+    {
+      "id": 2,
+      "img": "../src/imgs/product5.jpg",
+      "img_hover": "../src/imgs/product6.jpg",
+      "name": "Original Mobile Android Dual SIM",
+      "price": "145,000",
+      "old_price":" 169,000",
+      "sold":20,
+      "caractéristiques":[
+        "LENOVO IDEAPAD 1",
+        "15 IAU7",
+        "2023",
+        "CPU INTEL CORE I5 1235U 3.3GHZ",
+        "BOOST 4.4GHZ 10CORES 12 THREADS",
+        "12 MO CACHE",
+        "RAM 8GO DDR4X 3200MHZ",
+        "DISQUE 512GO SSD NVME",
+        "WIFI/BLUETOOTH/WEB CAM",
+        "USB 3.1",
+        "GRAPHIC",
+        "INTEL UHD GRAPHIC",
+        "'ECRAN 15.6' HD LED",
+        "ANTIREFLET",
+        "AZERTY"
+      ],
+      "DescTech":[
+        "SKU:LE018CL0JYLZGNAFAMZ",
+        "Modèle:IDEAPAD 1 15IAU7",
+        "Poids (kg) : 2",
+        "Couleur:SILVER"
+      ]
+    },
+    {
+      "id": 3,
+      "img": "../src/imgs/product7.jpg",
+      "img_hover": "../src/imgs/product-1.jpg",
+      "name": "Original Mobile Android Dual SIM",
+      "price": "145,000",
+      "old_price":" 169,000",
+      "caractéristiques":[
+        "LENOVO IDEAPAD 1",
+        "15 IAU7",
+        "2023",
+        "CPU INTEL CORE I5 1235U 3.3GHZ",
+        "BOOST 4.4GHZ 10CORES 12 THREADS",
+        "12 MO CACHE",
+        "RAM 8GO DDR4X 3200MHZ",
+        "DISQUE 512GO SSD NVME",
+        "WIFI/BLUETOOTH/WEB CAM",
+        "USB 3.1",
+        "GRAPHIC",
+        "INTEL UHD GRAPHIC",
+        "'ECRAN 15.6' HD LED",
+        "ANTIREFLET",
+        "AZERTY"
+      ],
+      "DescTech":[
+        "SKU:LE018CL0JYLZGNAFAMZ",
+        "Modèle:IDEAPAD 1 15IAU7",
+        "Poids (kg) : 2",
+        "Couleur:SILVER"
+      ]
+    },
+    {
+      "id": 4,
+      "img": "../src/imgs/product2.jpg",
+      "img_hover": "../src/imgs/product-3.jpg",
+      "name": "Original Mobile Android Dual SIM",
+      "price": "145,000",
+      "old_price":" 169,000",
+      "sold":20,
+      "caractéristiques":[
+        "LENOVO IDEAPAD 1",
+        "15 IAU7",
+        "2023",
+        "CPU INTEL CORE I5 1235U 3.3GHZ",
+        "BOOST 4.4GHZ 10CORES 12 THREADS",
+        "12 MO CACHE",
+        "RAM 8GO DDR4X 3200MHZ",
+        "DISQUE 512GO SSD NVME",
+        "WIFI/BLUETOOTH/WEB CAM",
+        "USB 3.1",
+        "GRAPHIC",
+        "INTEL UHD GRAPHIC",
+        "'ECRAN 15.6' HD LED",
+        "ANTIREFLET",
+        "AZERTY"
+      ],
+      "DescTech":[
+        "SKU:LE018CL0JYLZGNAFAMZ",
+        "Modèle:IDEAPAD 1 15IAU7",
+        "Poids (kg) : 2",
+        "Couleur:SILVER"
+      ]
+
+    },
+    {
+      "id": 5,
+      "img": "../src/imgs/product4.jpg",
+      "img_hover": "../src/imgs/product5.jpg",
+      "name": "Original Mobile Android Dual SIM",
+      "price": "145,000",
+      "old_price":" 169,000",
+      "caractéristiques":[
+        "LENOVO IDEAPAD 1",
+        "15 IAU7",
+        "2023",
+        "CPU INTEL CORE I5 1235U 3.3GHZ",
+        "BOOST 4.4GHZ 10CORES 12 THREADS",
+        "12 MO CACHE",
+        "RAM 8GO DDR4X 3200MHZ",
+        "DISQUE 512GO SSD NVME",
+        "WIFI/BLUETOOTH/WEB CAM",
+        "USB 3.1",
+        "GRAPHIC",
+        "INTEL UHD GRAPHIC",
+        "'ECRAN 15.6' HD LED",
+        "ANTIREFLET",
+        "AZERTY"
+      ],
+      "DescTech":[
+        "SKU:LE018CL0JYLZGNAFAMZ",
+        "Modèle:IDEAPAD 1 15IAU7",
+        "Poids (kg) : 2",
+        "Couleur:SILVER"
+      ]
+    },
+    {
+      "id": 6,
+      "img": "../src/imgs/product6.jpg",
+      "img_hover": "../src/imgs/product7.jpg",
+      "name": "Original Mobile Android Dual SIM",
+      "price": "145,000",
+      "old_price":" 169,000",
+      "sold":20,
+      "caractéristiques":[
+        "LENOVO IDEAPAD 1",
+        "15 IAU7",
+        "2023",
+        "CPU INTEL CORE I5 1235U 3.3GHZ",
+        "BOOST 4.4GHZ 10CORES 12 THREADS",
+        "12 MO CACHE",
+        "RAM 8GO DDR4X 3200MHZ",
+        "DISQUE 512GO SSD NVME",
+        "WIFI/BLUETOOTH/WEB CAM",
+        "USB 3.1",
+        "GRAPHIC",
+        "INTEL UHD GRAPHIC",
+        "'ECRAN 15.6' HD LED",
+        "ANTIREFLET",
+        "AZERTY"
+      ],
+      "DescTech":[
+        "SKU:LE018CL0JYLZGNAFAMZ",
+        "Modèle:IDEAPAD 1 15IAU7",
+        "Poids (kg) : 2",
+        "Couleur:SILVER"
+      ]
+    },
+    {
+      "id": 7,
+      "img": "../src/imgs/product-1.jpg",
+      "img_hover": "../src/imgs/product2.jpg",
+      "name": "Original Mobile Android Dual SIM",
+    "price": "145,000",
+      "old_price":" 169,000",
+      "caractéristiques":[
+        "LENOVO IDEAPAD 1",
+        "15 IAU7",
+        "2023",
+        "CPU INTEL CORE I5 1235U 3.3GHZ",
+        "BOOST 4.4GHZ 10CORES 12 THREADS",
+        "12 MO CACHE",
+        "RAM 8GO DDR4X 3200MHZ",
+        "DISQUE 512GO SSD NVME",
+        "WIFI/BLUETOOTH/WEB CAM",
+        "USB 3.1",
+        "GRAPHIC",
+        "INTEL UHD GRAPHIC",
+        "'ECRAN 15.6' HD LED",
+        "ANTIREFLET",
+        "AZERTY"
+      ],
+      "DescTech":[
+        "SKU:LE018CL0JYLZGNAFAMZ",
+        "Modèle:IDEAPAD 1 15IAU7",
+        "Poids (kg) : 2",
+        "Couleur:SILVER"
+      ]
+    },
+    {
+      "id": 8,
+      "img": "../src/imgs/product-3.jpg",
+      "img_hover": "img/product/product4.jpg",
+      "name": "Original Mobile Android Dual SIM",
+      "price": "145,000",
+      "old_price":" 169,000",
+      "sold":20,
+      "caractéristiques":[
+        "LENOVO IDEAPAD 1",
+        "15 IAU7",
+        "2023",
+        "CPU INTEL CORE I5 1235U 3.3GHZ",
+        "BOOST 4.4GHZ 10CORES 12 THREADS",
+        "12 MO CACHE",
+        "RAM 8GO DDR4X 3200MHZ",
+        "DISQUE 512GO SSD NVME",
+        "WIFI/BLUETOOTH/WEB CAM",
+        "USB 3.1",
+        "GRAPHIC",
+        "INTEL UHD GRAPHIC",
+        "'ECRAN 15.6' HD LED",
+        "ANTIREFLET",
+        "AZERTY"
+      ],
+      "DescTech":[
+        "SKU:LE018CL0JYLZGNAFAMZ",
+        "Modèle:IDEAPAD 1 15IAU7",
+        "Poids (kg) : 2",
+        "Couleur:SILVER"
+      ]
+    },
+    {
+      "id": 9,
+      "img": "../src/imgs/product5.jpg",
+      "img_hover": "../src/imgs/product6.jpg",
+      "name": "Original Mobile Android Dual SIM",
+      "price": "145,000",
+      "old_price":" 169,000",
+      "caractéristiques":[
+        "LENOVO IDEAPAD 1",
+        "15 IAU7",
+        "2023",
+        "CPU INTEL CORE I5 1235U 3.3GHZ",
+        "BOOST 4.4GHZ 10CORES 12 THREADS",
+        "12 MO CACHE",
+        "RAM 8GO DDR4X 3200MHZ",
+        "DISQUE 512GO SSD NVME",
+        "WIFI/BLUETOOTH/WEB CAM",
+        "USB 3.1",
+        "GRAPHIC",
+        "INTEL UHD GRAPHIC",
+        "'ECRAN 15.6' HD LED",
+        "ANTIREFLET",
+        "AZERTY"
+      ],
+      "DescTech":[
+        "SKU:LE018CL0JYLZGNAFAMZ",
+        "Modèle:IDEAPAD 1 15IAU7",
+        "Poids (kg) : 2",
+        "Couleur:SILVER"
+      ]
+    },
+    {
+      "id": 10,
+      "img": "../src/imgs/product7.jpg",
+      "img_hover": "../src/imgs/product-1.jpg",
+      "name": "Original Mobile Android Dual SIM",
+      "price": "145,000",
+      "old_price":" 169,000",
+      "sold":20,
+      "caractéristiques":[
+        "LENOVO IDEAPAD 1",
+        "15 IAU7",
+        "2023",
+        "CPU INTEL CORE I5 1235U 3.3GHZ",
+        "BOOST 4.4GHZ 10CORES 12 THREADS",
+        "12 MO CACHE",
+        "RAM 8GO DDR4X 3200MHZ",
+        "DISQUE 512GO SSD NVME",
+        "WIFI/BLUETOOTH/WEB CAM",
+        "USB 3.1",
+        "GRAPHIC",
+        "INTEL UHD GRAPHIC",
+        "'ECRAN 15.6' HD LED",
+        "ANTIREFLET",
+        "AZERTY"
+      ],
+      "DescTech":[
+        "SKU:LE018CL0JYLZGNAFAMZ",
+        "Modèle:IDEAPAD 1 15IAU7",
+        "Poids (kg) : 2",
+        "Couleur:SILVER"
+      ]
+    },
+    {
+      "id": 11,
+      "img": "../src/imgs/product2.jpg",
+      "img_hover": "../src/imgs/product-3.jpg",
+      "name": "Original Mobile Android Dual SIM",
+      "price": "145,000",
+      "old_price":" 169,000",
+      "caractéristiques":[
+        "LENOVO IDEAPAD 1",
+        "15 IAU7",
+        "2023",
+        "CPU INTEL CORE I5 1235U 3.3GHZ",
+        "BOOST 4.4GHZ 10CORES 12 THREADS",
+        "12 MO CACHE",
+        "RAM 8GO DDR4X 3200MHZ",
+        "DISQUE 512GO SSD NVME",
+        "WIFI/BLUETOOTH/WEB CAM",
+        "USB 3.1",
+        "GRAPHIC",
+        "INTEL UHD GRAPHIC",
+        "'ECRAN 15.6' HD LED",
+        "ANTIREFLET",
+        "AZERTY"
+      ],
+      "DescTech":[
+        "SKU:LE018CL0JYLZGNAFAMZ",
+        "Modèle:IDEAPAD 1 15IAU7",
+        "Poids (kg) : 2",
+        "Couleur:SILVER"
+      ]
+    },
+    {
+      "id": 12,
+      "img": "../src/imgs/product4.jpg",
+      "img_hover": "../src/imgs/product5.jpg",
+      "name": "Original Mobile Android Dual SIM",
+      "price": "145,000",
+      "old_price":" 169,000",
+      "sold":20,
+      "caractéristiques":[
+        "LENOVO IDEAPAD 1",
+        "15 IAU7",
+        "2023",
+        "CPU INTEL CORE I5 1235U 3.3GHZ",
+        "BOOST 4.4GHZ 10CORES 12 THREADS",
+        "12 MO CACHE",
+        "RAM 8GO DDR4X 3200MHZ",
+        "DISQUE 512GO SSD NVME",
+        "WIFI/BLUETOOTH/WEB CAM",
+        "USB 3.1",
+        "GRAPHIC",
+        "INTEL UHD GRAPHIC",
+        "'ECRAN 15.6' HD LED",
+        "ANTIREFLET",
+        "AZERTY"
+      ],
+      "DescTech":[
+        "SKU:LE018CL0JYLZGNAFAMZ",
+        "Modèle:IDEAPAD 1 15IAU7",
+        "Poids (kg) : 2",
+        "Couleur:SILVER"
+      ]
+    },
+    {
+      "id": 13,
+      "img": "../src/imgs/product6.jpg",
+      "img_hover": "../src/imgs/product7.jpg",
+      "name": "Original Mobile Android Dual SIM",
+      "price": "145,000",
+      "old_price":" 169,000",
+      "caractéristiques":[
+        "LENOVO IDEAPAD 1",
+        "15 IAU7",
+        "2023",
+        "CPU INTEL CORE I5 1235U 3.3GHZ",
+        "BOOST 4.4GHZ 10CORES 12 THREADS",
+        "12 MO CACHE",
+        "RAM 8GO DDR4X 3200MHZ",
+        "DISQUE 512GO SSD NVME",
+        "WIFI/BLUETOOTH/WEB CAM",
+        "USB 3.1",
+        "GRAPHIC",
+        "INTEL UHD GRAPHIC",
+        "'ECRAN 15.6' HD LED",
+        "ANTIREFLET",
+        "AZERTY"
+      ],
+      "DescTech":[
+        "SKU:LE018CL0JYLZGNAFAMZ",
+        "Modèle:IDEAPAD 1 15IAU7",
+        "Poids (kg) : 2",
+        "Couleur:SILVER"
+      ]
+    },
+    {
+      "id": 14,
+      "img": "../src/imgs/product-1.jpg",
+      "img_hover": "../src/imgs/product2.jpg",
+      "name": "Original Mobile Android Dual SIM",
+      "price": "145,000",
+      "old_price":" 169,000",
+      "sold":20,
+      "caractéristiques":[
+        "LENOVO IDEAPAD 1",
+        "15 IAU7",
+        "2023",
+        "CPU INTEL CORE I5 1235U 3.3GHZ",
+        "BOOST 4.4GHZ 10CORES 12 THREADS",
+        "12 MO CACHE",
+        "RAM 8GO DDR4X 3200MHZ",
+        "DISQUE 512GO SSD NVME",
+        "WIFI/BLUETOOTH/WEB CAM",
+        "USB 3.1",
+        "GRAPHIC",
+        "INTEL UHD GRAPHIC",
+        "'ECRAN 15.6' HD LED",
+        "ANTIREFLET",
+        "AZERTY"
+      ],
+      "DescTech":[
+        "SKU:LE018CL0JYLZGNAFAMZ",
+        "Modèle:IDEAPAD 1 15IAU7",
+        "Poids (kg) : 2",
+        "Couleur:SILVER"
+      ]
+      
+    },
+    {
+      "id": 15,
+      "img": "../src/imgs/product-3.jpg",
+      "img_hover": "../src/imgs/product4.jpg",
+      "name": "Original Mobile Android Dual SIM",
+      "price": "145,000",
+      "old_price":" 169,000",
+      "caractéristiques":[
+        "LENOVO IDEAPAD 1",
+        "15 IAU7",
+        "2023",
+        "CPU INTEL CORE I5 1235U 3.3GHZ",
+        "BOOST 4.4GHZ 10CORES 12 THREADS",
+        "12 MO CACHE",
+        "RAM 8GO DDR4X 3200MHZ",
+        "DISQUE 512GO SSD NVME",
+        "WIFI/BLUETOOTH/WEB CAM",
+        "USB 3.1",
+        "GRAPHIC",
+        "INTEL UHD GRAPHIC",
+        "'ECRAN 15.6' HD LED",
+        "ANTIREFLET",
+        "AZERTY"
+      ],
+      "DescTech":[
+        "SKU:LE018CL0JYLZGNAFAMZ",
+        "Modèle:IDEAPAD 1 15IAU7",
+        "Poids (kg) : 2",
+        "Couleur:SILVER"
+      ]
+    }
+
+
+
+
+  ]

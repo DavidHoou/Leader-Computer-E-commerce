@@ -1,0 +1,2687 @@
+[
+  {
+    "impriments":[
+  {
+    "id": 0,
+    "mainImg": "../public/imprimants/canon-imprimante-canon-pixma-g2410/main.jpg",
+    "relatedImg": [
+      "../public/imprimants/canon-imprimante-canon-pixma-g2410/main.jpg",
+      "../public/imprimants/canon-imprimante-canon-pixma-g2410/2.jpg",
+      "../public/imprimants/canon-imprimante-canon-pixma-g2410/4.jpg"
+    ],
+    "name": "Canon Imprimante CANON PIXMA G2410",
+    "price": "25,950",
+    "old_price": " 35,000",
+    "sold": "26",
+    "caractéristiques": [
+      "Rendement élevé",
+      "Impression sans marge",
+      "Mise sous tension automatique",
+      "Alimentation papier arrière",
+      "Texte noir extrêmement net",
+      "Écran LCD 1,2",
+      "Réservoirs d'encre intégréSystème d'encre hybride"
+    ],
+    "DescTech": [
+      "SKU: CA011EA15JXS4NAFAMZ",
+      "Modèle: g2410",
+      "Poids (kg): 3.8",
+      "Couleur: noir"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "Quelques articles restants",
+    "marque": "Canon",
+    "type": "Imprimantes multi-fonctions",
+    "inStock": "true",
+    "machine":"impriments"
+
+  },
+  {
+    "id": 1,
+    "mainImg": "../public/imprimants/canon-imprimante-canon-pixma-g3430/main.jpg",
+    "relatedImg": [
+      "../public/imprimants/canon-imprimante-canon-pixma-g2430/2.jpg",
+      "../public/imprimants/canon-imprimante-canon-pixma-g2430/3.jpg",
+      "../public/imprimants/canon-imprimante-canon-pixma-g2430/4.jpg"
+    ],
+    "name": "Canon IMPRIMANTE CANON PIXMA G2430",
+    "price": "32,800",
+    "old_price": " 39,900",
+    "sold": "11",
+    "caractéristiques": [
+      "11 ipm / 6 ipm Vitesses d'impression rapides pour une productivité améliorée ",
+      "Impression sans marge",
+      "Impression haute qualité Résolution d'impression nette et claire pour des photos et des documents de haute qualité",
+      "Capacité de 100 feuilles Bac arrière grande capacité pour les volumes d'impression",
+      " Imprimante 3-en-1 Imprimez, numérisez et copiez avec un seul appareil",
+      "Écran LCD 1,2",
+      "Mac, Windows et Chrome Fonctionne avec tous les principaux systèmes d'exploitation d'ordinateur"
+    ],
+    "DescTech": [
+      "SKU: CA011EA1BI9TWNAFAMZ",
+      "Modèle: 2430",
+      "Poids (kg): 3.8",
+      "Couleur: NOIR"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "Quelques articles restants",
+    "marque": "Canon",
+    "type": "Imprimantes multi-fonctions",
+    "machine":"impriments"
+    
+  },
+  {
+    "id": 2,
+    "mainImg": "../public/imprimants/canon-imprimante-canon-pixma-g3430/main.jpg",
+    "relatedImg": [
+      "../public/imprimants/canon-imprimante-canon-pixma-g3430/2.jpg",
+      "../public/imprimants/canon-imprimante-canon-pixma-g3430/3.jpg",
+      "../public/imprimants/canon-imprimante-canon-pixma-g3430/4.jpg"
+    ],
+    "name": "Canon IMPRIMANTE CANON PIXMA G3430 3 IN 1 WIFI",
+    "price": "48,000",
+    "old_price": " 51,000",
+    "sold": "20",
+    "caractéristiques": [
+      "CANON PIXMA G3430 Réalisez d'importantes économies sur vos coûts d'impression à domicile grâce à cette imprimante 3-en-1 à réservoirs d'encre rechargeables rapide, facile à utiliser et dotée de la fonctionnalité Wi-Fi.",
+      "Des impressions rapides. Des économies CONSIDÉRABLES Imprimez, copiez et numérisez des documents à domicile tout en réalisant d'importantes économies grâce à cette imprimante MegaTank rapide, abordable et efficace dotée de la fonctionnalité Wi-Fi. Avec des réservoirs rechargeables et un jeu unique de bouteilles d'encre permettant d'imprimer jusqu'à 4600 pages1, les coûts de fonctionnement sont nettement inférieurs à ceux des imprimantes à cartouches. Coûts de fonctionnement ultra-bas Réalisez d'importantes économies tout au long de la durée de vie de l'imprimante grâce aux réservoirs d'encre rechargeables à haut rendement. Imprimez 31001 pages d'encre noire (3900 en mode économique) et 44001 pages d'encre couleur (4600 en mode économique)",
+      "Fonctionnement intuitif Utilisation simple au quotidien grâce à des boutons clairs et à l'installation d'une tête d'impression en un geste Productivité haute vitesseObtenez vos documents plus rapidement grâce à des vitesses d'impression de 11 ipm (noir) et 6 ipm (couleur) Simple maintenance à domicileGagnez du temps grâce à la cartouche de maintenance remplaçable par l'utilisateur et aux bouteilles d'encre rigides à identification mécanique",
+      "Connectivité Wi-Fi Imprimez en toute transparence à partir d'une large gamme d'appareils grâce à la connectivité Wi-Fi et à la prise en charge de PIXMA Cloud Link, de l'application Canon PRINT, d'Apple AirPrint et bien plus encore",
+      "Large éventail de supports Laissez libre cours à votre créativité à la maison grâce à la possibilité d'imprimer sur du papier photo magnétique et mat Bouteilles d'encre à haut rendement en optionAméliorez la productivité en imprimant jusqu'à 60001 pages d'encre noire (7600 en mode économique) et 77001 pages d'encre couleur (8100 en mode économique) avec des bouteilles à haut rendement",
+      "Mode d'impression recto verso: ManuelTechnologie d'impression: Jet d'encreImpression: Impression couleurImpression recto-verso: OuiRésolution maximale: 4800 x 1200 DPIVitesse d'impression (ISO / IEC 24734) monochrome: 11 ipmVitesse d'impression (ISO / IEC 24734) couleur: 6 ipmFonctions recto verso: ImpressionCouleurs d’impression: Noir, Cyan, Magenta, JauneCapacité d’entrée et de sortieNombre total de bacs d alimentation: 1Capacité d alimentation totale: 100 feuillesGestion du papierTaille de papier de série A ISO maximum: A4type de support du bac papier: Enveloppes, Papier photo, Papier ordinaireISO, Format Series A (A0…A9): A4, A5, A6ISO, Formats Series-B (B0…B9): B5Tailles du support d’impression non-ISO: Executive, Legal, LetterTailles enveloppes: 10, C5, DLTailles papier photo: 4×6,5×7,7×10,8×10Taille d’impression sans bordures: A4, B5, lettrePersonalisation de la largeur support: 55 – 216 mmPersonalisation de la longueur support: 89 – 1200 mmPoids du support de bac papier: 64 – 105 g/m²Connectivité"
+    ],
+    "DescTech": [
+      "SKU: CA011EA0ESXKKNAFAMZ",
+      "Modèle: G3430",
+      "Taille (Longueur x Largeur x Hauteur cm): 41X33X17",
+      "Poids (kg): 7",
+      "Couleur: NOIR"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "Quelques articles restants",
+    "marque": "Canon",
+    "type": "Imprimantes multi-fonctions",
+    "machine":"impriments"
+  },
+  {
+    "id": 3,
+    "mainImg": "../public/imprimants/canon-imprimante-multifonctions-copiescan-impression-pixma-g2410-jet-dencre/main.jpg",
+    "relatedImg": [
+      "../public/imprimants/canon-imprimante-multifonctions-copiescan-impression-pixma-g2410-jet-dencre/2.jpg",
+      "../public/imprimants/canon-imprimante-multifonctions-copiescan-impression-pixma-g2410-jet-dencre/3.jpg",
+      "../public/imprimants/canon-imprimante-multifonctions-copiescan-impression-pixma-g2410-jet-dencre/4.jpg"
+    ],
+    "name": "Canon Imprimante MULTIFONCTIONS; COPIE,SCAN IMPRESSION PIXMA G2410 JET D'ENCRE",
+    "price": "28,900",
+    "old_price": " 39,900",
+    "sold": "15",
+    "caractéristiques": [
+      "Rendement élevé",
+      "Impression sans marge",
+      "Mise sous tension automatique",
+      "Alimentation papier arrière",
+      " Texte noir extrêmement net",
+      "Écran LCD 1,2",
+      "Réservoirs d'encre intégréSystème d'encre hybride"
+    ],
+    "DescTech": [
+      "SKU: CA011EA07QD7WNAFAMZ",
+      "Modèle: G2410",
+      "Poids (kg): 4",
+      "Couleur: NOIR"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "2 articles seulement",
+    "marque": "Canon",
+    "type": "Imprimantes multi-fonctions",
+    "machine":"impriments"
+  },
+  {
+    "id": 4,
+    "mainImg": "../public/imprimants/canon-ink-cart-imprimante-canon-pixma-g3410-3-in-1-wifi/main.jpg",
+    "relatedImg": [
+      "../public/imprimants/canon-ink-cart-imprimante-canon-pixma-g3410-3-in-1-wifi/2.jpg",
+      "../public/imprimants/canon-ink-cart-imprimante-canon-pixma-g3410-3-in-1-wifi/3.jpg",
+      "../public/imprimants/canon-ink-cart-imprimante-canon-pixma-g3410-3-in-1-wifi/4.jpg"
+    ],
+    "name": "Canon Ink Cart IMPRIMANTE CANON PIXMA G3410 3 IN 1 WIFI",
+    "price": "38,000",
+    "old_price": " 44,500",
+    "sold": "15",
+    "caractéristiques": [
+      "Rendement élevé",
+      "Wi-Fi",
+      "Réservoirs d'encre intégrés",
+      "Système d'encre hybride PIXMA Cloud Link",
+      " Écran LCD 1,2 Impression sans marge ",
+      "Écran LCD 1,2",
+      "Application Canon PRINT"
+    ],
+    "DescTech": [
+      "SKU: CA940EA1HGLVONAFAMZ",
+      "Modèle: G3410",
+      "Poids (kg): 3.8",
+      "Couleur: NOIR"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "Quelques articles restants",
+    "marque": "Canon Ink Cart",
+    "type": "Imprimantes multi-fonctions",
+    "machine":"impriments"
+    
+  },
+  {
+    "id": 5,
+    "mainImg": "../public/imprimants/canon-lbp-226/main.jpg",
+    "relatedImg": [
+      "../public/imprimants/canon-lbp-226/1.jpg"
+    ],
+    "name": "Canon Imprimante Laser Recto Verso Sans Fil Mobile - LBP226DW - Blanc",
+    "price": "66,000",
+    "old_price": " 64,500",
+    "sold": 15,
+    "caractéristiques": [
+      "Technologie de connectivité USB, mise en réseau",
+      "Technologie d'impression Laser",
+      "Une fonction spéciale Énergie Étoile Couleur Blanc",
+      "Utilisations recommandées pour le produit Bureau, Maison",
+      "Nom du modèle ImageCLASS LBP220",
+      "Sortie d'imprimante Monochrome",
+      "Vitesse d'impression maximale (couleur) 40",
+      "Vitesse d'impression maximale monochrome 40 ppm"
+    ],
+    "DescTech": [
+      "SKU: CA011EA17066KNAFAMZ",
+      "Modèle: LBP226DW",
+      "Poids (kg): 0.3",
+      "Couleur: Blanc"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "1 articles seulement",
+    "marque": "Canon",
+    "type": "Imprimantes multi-fonctions",
+    "machine":"impriments"
+  },
+  {
+    "id": 6,
+    "mainImg": "../public/imprimants/Canon-Pixma-Tank/main.jpg",
+    "relatedImg": [
+      "../public/imprimants/Canon-Pixma-Tank/2.jpg",
+      "../public/imprimants/Canon-Pixma-Tank/3.jpg",
+      "../public/imprimants/Canon-Pixma-Tank/4.jpg"
+    ],
+    "name": "Canon Pixma Tank G2420 Réservoir Couleur",
+    "price": "32,000",
+    "old_price": " 49,850",
+    "sold": 39,
+    "caractéristiques": [
+      "Multifonction Jet d'encre Canon Pixma G2420",
+      "Wi-Fi",
+      "Couleur *Impression ultra économique : Impression jusqu’à 12000 pages en monochrome et 7000 pages en couleur",
+      "Système de recharge d’encre nouvelle génération : Bénéficiez de recharges simples avec les bouteilles d’encre",
+      "Multifonction : Impression, Numérisation, Copie",
+      "Vitesse d’impression : 9.1 pages/min Monochrome, 5 pages/min Couleur",
+      "Encre universel compatible avec l'imprimante"
+    ],
+    "DescTech": [
+      "SKU: CA011EA0R393SNAFAMZ",
+      "Gamme de produits: Imprimante Multifonction",
+      "Modèle: Pixma G2420",
+      "Pays de production: Japan",
+      "Taille (Longueur x Largeur x Hauteur cm): 45x33x16",
+      "Poids (kg): 6.4",
+      "Couleur: Noire"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "1 articles seulement",
+    "marque": "Canon",
+    "type": "Imprimantes multi-fonctions",
+    "machine":"impriments"
+  },
+  {
+    "id": 7,
+    "mainImg": "../public/imprimants/epson-imprimante-ecotank/main.jpg",
+    "relatedImg": [
+      "../public/imprimants/epson-imprimante-ecotank/2.jpg",
+      "../public/imprimants/epson-imprimante-ecotank/3.jpg"
+    ],
+    "name": "Epson Imprimante EcoTank L5296",
+    "price": "85,000",
+    "old_price": " 88,200",
+    "sold": 12,
+    "caractéristiques": [
+      "Imprimante multifonction avec chargeur automatique de documents Impression, copie, numérisation et télécopie",
+      "Impression à très bas coût Économisez jusqu'à 90 % sur les coûts d'impression 1",
+      "Jusqu'à 3 ans d'encre dans la boîte2 Comprend 8 100 pages en noir et blanc et 6 500 en couleur3",
+      "Bouteilles d'encre de rechange à haut rendement Jusqu'à 66 cartouches d'encre à partir d'un seul jeu de bouteilles d'encre 1",
+      "Application Epson Smart Panel Configurez, surveillez, imprimez, numérisez et bien plus encore sans fil à partir de votre appareil intelligent 4"
+    ],
+    "DescTech": [
+      "SKU: EP015EA0T2TKKNAFAMZ",
+      "Modèle: L5296",
+      "Poids (kg): 3.9",
+      "Couleur: blanc",
+      "Matériau principal: PVC"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "1 articles seulement",
+    "marque": "Epson",
+    "type": "Imprimantes multi-fonctions",
+    "machine":"impriments"
+  },
+  {
+    "id": 8,
+    "mainImg": "../public/imprimants/epson-imprimante-multifonction-epson-expression-xp-2200-4-en-1-jet-dencre-couleur-wifi/main.jpg",
+    "relatedImg": [
+      "../public/imprimants/epson-imprimante-multifonction-epson-expression-xp-2200-4-en-1-jet-dencre-couleur-wifi/2.jpg",
+      "../public/imprimants/epson-imprimante-multifonction-epson-expression-xp-2200-4-en-1-jet-dencre-couleur-wifi/3.jpg",
+      "../public/imprimants/epson-imprimante-multifonction-epson-expression-xp-2200-4-en-1-jet-dencre-couleur-wifi/4.jpg",
+      "../public/imprimants/epson-imprimante-multifonction-epson-expression-xp-2200-4-en-1-jet-dencre-couleur-wifi/5.jpg"
+    ],
+    "name": "Epson Imprimante multifonction EPSON EXPRESSION XP-(2200) 4 en 1 - Jet d'encre Couleur WIFI",
+    "price": "32,000",
+    "old_price": "35,100",
+    "sold": 15,
+    "caractéristiques": [
+      "IMPRIMANTE,SCANNER,PHOTOCOPIE,WIFI",
+      "Vitesse d’impression: Noir Jusqu’à 27 ppm",
+      "Couleur: Jusqu’à 15 ppm",
+      "Connectivité: Wi-Fi, USB, Wi-Fi Direct",
+      "Modèle Expression Accueil XP-2200",
+      "Catégorie Imprimantes",
+      "Technologie d’impression Cartouches d’encre couleur à base de colorants et d’encre pigmentaire noire",
+      "Vitesse d’impression noir Jusqu’à 27 ppm",
+      "Vitesse d’impression couleur Jusqu’à 15 ppm",
+      "Résolution de l’impression 5.760 x 1.440 PPP (ppp)",
+      "Résolution de la numérisation 1.200 DPI (ppp) x 2.400 DPI (ppp) (horizontal x vertical)",
+      "type de scanner Capteur d'image par contact (CIS)",
+      "Nombre de bacs papier 1",
+      "Impression recto/verso Manuel",
+      "Alimentation papier standard 100 Feuilles Standard, 20 Feuilles photo",
+      "Gestion des médias Impression sans marge, Recto verso manuel"
+    ],
+    "DescTech": [
+      "SKU: EP015EA1FFXD8NAFAMZ",
+      "Modèle: XP-2200",
+      "Poids (kg): 4",
+      "Couleur: Noir",
+      "Matériau principal: plastique"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "Quelques articles restants",
+    "type": "Imprimantes multi-fonctions",
+    "machine":"impriments",
+    "marque": "Epson"
+  },
+  {
+    "id": 9,
+    "mainImg": "../public/imprimants/hp-smart-tank-500-imprimante-multifonctions-all-in-one-jet-dencre/main.jpg",
+    "relatedImg": [
+      "../public/imprimants/hp-smart-tank-500-imprimante-multifonctions-all-in-one-jet-dencre/2.jpg",
+      "../public/imprimants/hp-smart-tank-500-imprimante-multifonctions-all-in-one-jet-dencre/3.jpg",
+      "../public/imprimants/hp-smart-tank-500-imprimante-multifonctions-all-in-one-jet-dencre/4.jpg"
+    ],
+    "name": "Hp SMART TANK 500 Imprimante MULTIFONCTIONS ALL IN ONE JET D'ENCRE",
+    "price": "35,900",
+    "old_price": "39,900",
+    "sold": 10,
+    "caractéristiques": [
+      "Fonctions : Impression, copie, numérisation",
+      "Technologie d’impression : Impression jet d’encre thermique HP",
+      "Vitesse d’impression noir : 11 ppm",
+      "Vitesse d’impression couleur : Jusqu’à 16 ppm",
+      "Qualité d’impression noire : Jusqu’à 1 200 x 1 200 ppp rendus",
+      "Qualité d’impression couleur : Jusqu’à 4 800 x 1 200 ppp optimisés",
+      "Écran : Affichage LCD 7 segments + icône 5,08 cm (2 pouces)"
+    ],
+    "DescTech": [
+      "SKU: HP017EA1CT9YKNAFAMZ",
+      "Modèle: SMART TANK 500",
+      "Poids (kg): 4",
+      "Couleur: Noir"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "1 articles seulement",
+    "marque": "HP",
+    "type": "Imprimantes multi-fonctions",
+    "machine":"impriments"
+  },
+  {
+    "id": 10,
+    "mainImg": "../public/imprimants/hp-imprimante-hp-smart-tank-500-couleur-a-reservoir-dencre-all-in-one/main.jpg",
+    "relatedImg": [
+      "../public/imprimants/hp-imprimante-hp-smart-tank-500-couleur-a-reservoir-dencre-all-in-one/2.jpg",
+      "../public/imprimants/hp-imprimante-hp-smart-tank-500-couleur-a-reservoir-dencre-all-in-one/3.jpg",
+      "../public/imprimants/hp-imprimante-hp-smart-tank-500-couleur-a-reservoir-dencre-all-in-one/4.jpg"
+    ],
+    "name": "Hp IMPRIMANTE HP SMART TANK 500 COULEUR À RÉSERVOIR D’ENCRE ALL-IN-ONE",
+    "price": "39,900",
+    "old_price": "45,000",
+    "sold": 11,
+    "caractéristiques": [
+      "Fonctions : Impression, copie, numérisation",
+      "Technologie d’impression : Impression jet d’encre thermique HP",
+      "Vitesse d’impression noir : 11 ppm",
+      "Vitesse d’impression couleur : Jusqu’à 16 ppm",
+      "Qualité d’impression noire : Jusqu’à 1 200 x 1 200 ppp rendus",
+      "Qualité d’impression couleur : Jusqu’à 4 800 x 1 200 ppp optimisés",
+      "Écran : Affichage LCD 7 segments + icône 5,08 cm (2 pouces)"
+    ],
+    "DescTech": [
+      "SKU: HP017EA0JZQVONAFAMZ",
+      "Modèle: SMART TANK 500",
+      "Poids (kg): 7",
+      "Couleur: Noir"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "1 articles seulement",
+    "marque": "HP",
+    "type": "Imprimantes multi-fonctions",
+    "machine":"impriments"
+  },
+  {
+    "id": 11,
+    "mainImg": "../public/imprimants/Imprimantes-jet-d'encre-ou-laser/imprimante-multifonction-couleur-jet-dencre-canon-mg-2540-s/main.jpg",
+    "relatedImg": [
+      "../public/imprimants/Imprimantes-jet-d'encre-ou-laser/imprimante-multifonction-couleur-jet-dencre-canon-mg-2540-s/2.jpg"
+
+    ],
+    "name": "Canon Imprimante Multifonction Couleur Jet Dencre Canon Mg 2540 S",
+    "price": "13,000",
+    "old_price": "14,800",
+    "sold": 12,
+    "caractéristiques": [
+      "Fonctions : Impression, copie et numérisation",
+      "Technologie d’impression : Jet d‎‎’‎‎encre",
+      "Cartouches d’impression : 2 (1 noire / 1 cyan, magenta, jaune )",
+      "Vitesse d’impression noir : Jusqu’à 8 ppm",
+      "Vitesse d’impression couleur : Jusqu’à 4 ppm",
+      "Qualité d’impression noire : Jusqu’à 390 × 600 ppp",
+      "Qualité d’impression couleur : Jusqu’à 190 × 600 ppp",
+      "Connectivité : Hi-Speed USB (B Port)",
+      "Capacité bac papier : Jusqu’à 60 feuilles",
+      "Formats de supports pris en charge : A4, A5, B5, Letter, Legal",
+      "Cartouches compatibles :  PG-445XL , CL-446X",
+      "Systèmes d’exploitation compatibles Windows 10 Windows 8.1 (including Windows 8.1 Update), Windows 8 Windows 7, Windows 7 SP1 Windows Vista SP2 Windows XP SP3 (32 bit only)"
+    ],
+    "DescTech": [
+      "SKU: CA011EA0FSG1KNAFAMZ",
+      "Gamme de produits: Imprimante Multifonction",
+      "Modèle: MG2540s",
+      "Taille (Longueur x Largeur x Hauteur cm): 42.6x14.5x30.6",
+      "Poids (kg): 3.5",
+      "Couleur: Noire"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "1 articles seulement",
+    "marque": "Canon",
+    "type": "Imprimantes jet d'encre ou laser",
+    "machine":"impriments"
+  },
+  {
+    "id": 12,
+    "mainImg": "../public/imprimants/Imprimantes-jet-d'encre-ou-laser/canon-imprimante-canon-pixma-g2470-reservoir-2470/main.jpg",
+    "relatedImg": [
+      "../public/imprimants/Imprimantes-jet-d'encre-ou-laser/canon-imprimante-canon-pixma-g2470-reservoir-2470/2.jpg"
+
+    ],
+    "name": "Canon IMPRIMANTE CANON PIXMA G2470 RESERVOIR 2470",
+    "price": "43,950",
+    "old_price": "31,500",
+    "sold": 26,
+    "caractéristiques": [
+      "11 ipm / 6 ipm Vitesses d'impression rapides pour une productivité améliorée",
+      "Imprimante 3-en-1 Imprimez, numérisez et copiez avec un seul appareil"
+    ],
+    "DescTech": [
+      "SKU: CA011EA0PJZZGNAFAMZ",
+      "Modèle: G2470",
+      "Poids (kg): 7",
+      "Couleur: Noire"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "1 articles seulement",
+    "marque": "Canon",
+    "type": "Imprimantes jet d'encre ou laser",
+    "machine":"impriments"
+  },
+  {
+    "id": 13,
+    "mainImg": "../public/imprimants/Imprimantes-jet-d'encre-ou-laser/epson-imprimante-multifonction-ecotank-l3251-a4-jet-dencre/main.jpg",
+    "relatedImg": [
+      "../public/imprimants/Imprimantes-jet-d'encre-ou-laser/epson-imprimante-multifonction-ecotank-l3251-a4-jet-dencre/2.jpg"
+
+    ],
+    "name": "Epson Imprimante Multifonction EcoTank L3251 A4 Jet D'Encre",
+    "price": "42,000",
+    "old_price": "44,500",
+    "sold": 20,
+    "caractéristiques": [
+      "Imprimante multifonction Impression, copie et numérisation sans fil",
+      " Impression ultra économique Économisez jusqu’à 90 % sur vos coûts d’impression2",
+      "Volume d’encre fourni pour 3 ans d’impression3 Capacité fournie : 8 100 pages en monochrome et 6 500 pages en couleur4",
+      "Système de réservoir d’encre simple Recharges simples avec les bouteilles d’encre à détrompeurs et les réservoirs d’encre en façade",
+      "Application Epson Smart Panel Configuration, surveillance, impression sans fil et plus encore depuis votre appareil mobile",
+      "Vitesse d’impression: 33 pages/min Monochrome (papier ordinaire), 15 pages/min Couleur (papier ordinaire), 27 Secondes par photo de 10 x 15 cm (Papier Photo Epson Premium Glacé)",
+      " Formats de papier: A4 (21.0x29,7 cm), A6 (10,5x14,8 cm), A5 (14,8x21,0 cm), B5, 10 x 15 cm, 13 x 18 cm, 16:9, DL (enveloppe), N° 10 (enveloppe), C6 (Enveloppe), Letter, Défini par l’utilisateur, Legal",
+      "Recto-verso: Manuel",
+      "Capacité du bac de sortie papier: 30 Feuilles",
+      "Consommables compatibles 103",
+      "Dimensions: 375‎ x 347 x 179 mm (Largeur x Profondeur x Hauteur)",
+      "Poids: 3,9 kg "
+    ],
+    "DescTech": [
+      "SKU: EP015EA0STJGSNAFAMZ",
+      "Modèle: EcoTank L3251 A4",
+      "Poids (kg): 0.5",
+      "Couleur: Noir"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "4 articles seulement",
+    "marque": "Epson",
+    "type": "Imprimantes jet d'encre ou laser",
+    "machine":"impriments"
+  },
+  {
+    "id": 14,
+    "mainImg": "../public/imprimants/Imprimantes-jet-d'encre-ou-laser/epson-imprimante-couleur-a-reservoir-dencre-tout-en-un-l850-photo-noir/main.jpg",
+    "relatedImg": [
+      "../public/imprimants/Imprimantes-jet-d'encre-ou-laser/epson-imprimante-couleur-a-reservoir-dencre-tout-en-un-l850-photo-noir/2.jpg"
+
+    ],
+    "name": "Epson Imprimante Couleur à Réservoir d'Encre Tout-En-Un L850 Photo - Noir",
+    "price": "80,000",
+    "old_price": "90,500",
+    "sold": 35,
+    "caractéristiques": [
+      "Bouteilles d'encre à haut rendement",
+      "Écran LCD 2,7 couleurs",
+      "Impression directe via la fente pour carte mémoire, le port USB et PictBridge",
+      "Impression de CD/DVD",
+      "Garantie de 1 an ou 3 000 tirages photo, selon la première éventualité"
+    ],
+    "DescTech": [
+      "SKU: EP015EA0ADM8CNAFAMZ",
+      "Modèle: L850",
+      "Poids (kg): 0.3",
+      "Couleur: Noir"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "1 articles seulement",
+    "marque": "Epson",
+    "type": "Imprimantes jet d'encre ou laser",
+    "machine":"impriments"
+  },
+  {
+    "id": 15,
+    "mainImg": "../public/imprimants/Imprimantes-jet-d'encre-ou-laser/epson-imprimante-3-in-1-epson-ecotank-l6270-wifi-rv-chargeur-doc/main.jpg",
+    "relatedImg": [
+      "../public/imprimants/Imprimantes-jet-d'encre-ou-laser/epson-imprimante-3-in-1-epson-ecotank-l6270-wifi-rv-chargeur-doc/main.jpg"
+
+    ],
+    "name": "Epson IMPRIMANTE 3 IN 1 EPSON ECOTANK L6270 WIFI RV CHARGEUR DOC",
+    "price": "75,000",
+    "old_price": "80,000",
+    "sold": 6,
+    "caractéristiques": [
+      "Technologie d'impression Lazzer",
+      "Cartouches d'impression Noir",
+      "Vitesse d'impression noir 18 ppm (A4)",
+      "Qualité d'impression noire Jusqu'à 2400 × 600 dpi avec fonction de lissage automatique d'image",
+      "Cycle d'utilisation 5000 pages par mois maximum" ,
+      "Connectivité USB 2.0 Haute-vitesse",
+      "Impression recto/verso Manuel",
+      "mpression sans bordure 5 mm haut, bas, gauche, droite",
+      "Capacité bac papier Bac multifonction 150 feuilles"
+    ],
+    "DescTech": [
+      "SKU: CA011EA18O9OONAFAMZ",
+      "Modèle: LASER",
+      "Taille (Longueur x Largeur x Hauteur cm): 364 x 249 x 199mm",
+      "Poids (kg): 7",
+      "Couleur: Noir",
+      "Matériau principal: PVC"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "5 articles seulement",
+    "marque": "Epson",
+    "type": "Imprimantes jet d'encre ou laser",
+    "machine":"impriments"
+  },
+  {
+    "id": 16,
+    "mainImg": "../public/imprimants/Imprimantes-jet-d'encre-ou-laser/hp-imprimante-laser-wifi-107-w/main.jpg",
+    "relatedImg": [
+      "../public/imprimants/Imprimantes-jet-d'encre-ou-laser/hp-imprimante-laser-wifi-107-w/main.jpg"
+
+    ],
+    "name": "Hp Imprimante Laser Wifi 107 W",
+    "price": "47,400",
+    "old_price": "48,900",
+    "sold": 10,
+    "caractéristiques": [
+      "PRÉSENTATION DU PRODUIT HP LASER 107W  WIFI Imprimante laser monochrome HP Laser 107w ",
+      "Vitesse d'impression : Jusqu'à 20 ppm ",
+      "Résolution d'impression : 1200 x 1200 ppp ",
+      " Interface standard : 1 x USB 2.0, 802.11b,802.11g,Wi-Fi 4 (802.11n) " ,
+      "Mémoire (std/max) : 64 Mo / 64 Mo ",
+      "Format max. du papier : A4 ",
+      "Alimentation papier (std) : 150 feuilles",
+      " Alimentation papier (max): 150 feuilles",
+      "Indication utilisateur : Affichage LED",
+      "Dimensions (L x P x H) : 331 x 215 x 178 mm pour un poids de 4,16 Kg"
+    ],
+    "DescTech": [
+      "SKU: HP017EA0RAYYKNAFAMZ",
+      "Modèle: 107 w",
+      "Taille (Longueur x Largeur x Hauteur cm): 364 x 249 x 199mm",
+      "Poids (kg): 3.5",
+      "Couleur: blanc"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "1 articles seulement",
+    "marque": "HP",
+    "type": "Imprimantes jet d'encre ou laser",
+    "machine":"impriments"
+  },
+  {
+    "id": 17,
+    "mainImg": "../public/imprimants/Imprimantes-jet-d'encre-ou-laser/canon-imprimante-canon-laser-i-sensys-lbp6030-monochrome-a4/main.jpg",
+    "relatedImg": [
+      "../public/imprimants/Imprimantes-jet-d'encre-ou-laser/canon-imprimante-canon-laser-i-sensys-lbp6030-monochrome-a4/2.jpg"
+
+    ],
+    "name": "Canon Imprimante CANON Laser I-SENSYS LBP6030 Monochrome A4",
+    "price": "41,700",
+    "old_price": "54,500",
+    "sold": 23,
+    "caractéristiques": [
+      "Technologie d'impression Lazzer",
+      "Cartouches d'impression Noir",
+      "Vitesse d'impression noir 18 ppm (A4)",
+      "Qualité d'impression noire Jusqu'à 2400 × 600 dpi avec fonction de lissage automatique d'image",
+      "Cycle d'utilisation 5000 pages par mois maximum" ,
+      "Connectivité USB 2.0 Haute-vitesse",
+      "Impression recto/verso Manuel",
+      "mpression sans bordure 5 mm haut, bas, gauche, droite",
+      "Capacité bac papier Bac multifonction 150 feuilles"
+    ],
+    "DescTech": [
+      "SKU: CA011EA18O9OONAFAMZ",
+      "Modèle: LASER",
+      "Taille (Longueur x Largeur x Hauteur cm): 364 x 249 x 199mm",
+      "Poids (kg): 7",
+      "Couleur: Noir",
+      "Matériau principal: PVC"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "1 articles seulement",
+    "marque": "Canon",
+    "type": "Imprimantes jet d'encre ou laser",
+    "machine":"impriments"
+  },
+  {
+    "id": 18,
+    "mainImg": "../public/imprimants/Imprimantes d'étiquettes/epson-imprimante-de-tickets-tm-t20x-052-ethernet/main.jpg",
+    "relatedImg": [
+      "../public/imprimants/Imprimantes d'étiquettes/epson-imprimante-de-tickets-tm-t20x-052-ethernet/main.jpg"
+
+    ],
+    "name": "Epson IMPRIMANTE DE TICKETS TM-T20X-052 ETHERNET",
+    "price": "28,000",
+    "old_price": "30,400",
+    "sold": 8,
+    "caractéristiques": [
+      "Epson TM-T20X 052",
+      "Cette imprimante thermique de tickets POS offre une meilleure solution pour les commerces de petite taille et spécialisés, l’hôtellerie et les supermarchés",
+      "Elle est économique, grâce à sa fonction de réduction de papier automatique",
+      "C’est une imprimante fiable dont la durée de vie du mécanisme atteint les 15 millions de lignes",
+      "Possède une vitesse d’impression élevée de 250mm/s" ,
+      "Connectivité flexible par USB et Ethernet"    ],
+    "DescTech": [
+      "SKU: EP015EA06326SNAFAMZ",
+      "Modèle: TM-T20X-052",
+      "Taille (Longueur x Largeur x Hauteur cm): 5*8",
+      "Poids (kg): 2",
+      "Couleur: Noir"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "4 articles seulement",
+    "marque": "Epson",
+    "type": "Imprimantes d'étiquettes",
+    "machine":"impriments"
+  },
+  {
+    "id": 19,
+    "mainImg": "../public/imprimants/Imprimantes d'étiquettes/xprinter-imprimante-code-a-barre-etiquette-thermique-usb-xprinter-xp-350b/main.jpg",
+    "relatedImg": [
+      "../public/imprimants/Imprimantes d'étiquettes/xprinter-imprimante-code-a-barre-etiquette-thermique-usb-xprinter-xp-350b/2.jpg"
+
+    ],
+    "name": "XPrinter Imprimante code a barre etiquette thermique USB XPrinter XP-350B",
+    "price": "23,500",
+    "old_price": "25,400",
+    "sold": 11,
+    "caractéristiques": [
+      "Résolution : 203 ppp (8 points / mm)",
+      "Méthode d'impression : Thermique directe",
+      "Vitesse d'impression max. : 152 mm / s max.",
+      "Largeur d'impression max. : Max.76 mm",
+      "Type de support : Papier thermique / Papier autocollants thermiques",
+      "Largeur du support : 20 à 82 mm",
+      "Épaisseur du support : 0,06 ～ 0,19 mm",
+      "Diamètre du rouleau de support : 100 mm maximum",
+      "DRAM: 4M FLASH: 4M",
+      "Interfaces : USB + série",
+      "Capteurs : Capteur de température de la tête d'impression / Capot ouvert / Fin du papier / Espace",
+      "Port de tiroir : 1 ports (broche 2 pour tiroir-caisse)",
+      "Polices / Graphiques / Symbologies",
+      "Tailles des caractères : Police 0 à Police8",
+      "Code-barres 1D : CODE128, EAN128, ITF, CODE39, CODE39C, CODE39S, CODE93, EAN13, EAN13 + 2, EAN13 + 5, EAN8, EAN8 + 2, EAN8 + 5, CODABAR, POSTNET, UPC-A, UPCA + 2, UPCA + 5 UPCE 、 UPCE + 2 、 UPCE + 5 、 MSI 、 MSIC 、 PLESSEY 、 ITF14 、 EAN14",
+      "Code à barres 2D : PDF417 、 QR_CODE 、 DATMATRIX",
+      "Émulaion : TSPL",
+      "Dimension : 220 * 148 * 150 mm (P × L × H)",
+      "Poids : 1,44 kg",
+      "Vie de la tête d'impression : 100 km",
+      "Alimentation : DC 24 V / 2,5 A (Incluse)",
+      "Opération : 5 ～ 45 ℃ ， Humidité: HR   20 ～ 80%",
+      "Environnement de stockage : -40 ～ 55 ℃ ，   Humidité: HR" ],
+    "DescTech": [
+      "SKU: XP340EA0GTED8NAFAMZ",
+      "Modèle: XP-350B",
+      "Poids (kg): 1.44"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "2 articles seulement",
+    "marque": "XPrinter",
+    "type": "Imprimantes d'étiquettes",
+    "machine":"impriments"
+  },
+  {
+    "id": 20,
+    "mainImg": "../public/imprimants/Imprimantes matricielles/epson-imprimante-matricielle-epson-lq350/main.jpg",
+    "relatedImg": [
+      "../public/imprimants/Imprimantes matricielles/epson-imprimante-matricielle-epson-lq350/main.jpg"
+
+    ],
+    "name": "Epson IMPRIMANTE MATRICIELLE EPSON LQ350",
+    "price": "52,700",
+    "old_price": "54,400",
+    "sold": 11,
+    "caractéristiques": [
+      "Économies d'énergie: 1,3 W en veille, 22 W en impression",
+      "MARQUE.EPSON",
+      "Économique: Autonomie du ruban de 2,5 millions de caractères",
+      "Intégration simplifiée: Interfaces Parallèle, Série et USB",
+      "Conception compacte: Facile à placer sur un bureau"
+    ],
+    "DescTech": [
+      "SKU: EP015EA0V9HD0NAFAMZ",
+      "Modèle: LQ350",
+      "Taille (Longueur x Largeur x Hauteur cm): 6*5*4",
+      "Poids (kg): 4.1",
+      "Couleur: NOIR"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "2 articles seulement",
+    "marque": "Epson",
+    "type": "Imprimantes matricielles",
+    "machine":"impriments"
+  },
+  {
+    "id": 21,
+    "mainImg": "../public/imprimants/Imprimantes Professionnelles/canon-imprimante-multifonctions-canon-mf-3010-noire/main.jpg",
+    "relatedImg": [
+      "../public/imprimants/Imprimantes Professionnelles/canon-imprimante-multifonctions-canon-mf-3010-noire/main.jpg"
+
+    ],
+    "name": "Canon Imprimante multifonctions - CANON MF 3010 - Noire",
+    "price": "56,800",
+    "old_price": "64,000",
+    "sold": 11,
+    "caractéristiques": [
+      "Résolution d'impression jusqu'à 1200*600 dpi",
+      "Fonction de numérisation couleur simple d'utilisation",
+      "Design moderne et irrésistible",
+      "Écran véritable simple d'utilisation",
+      "Efficacité énergétique inégalée",
+      "Cartouche Tout-en-un pratique et facile à utiliser"
+    ],
+    "DescTech": [
+      "SKU: CA011EL11L4I0NAFAMZ",
+      "Modèle: MF3010",
+      "Taille (Longueur x Largeur x Hauteur cm): 372*276*254 cm",
+      "Poids (kg): 8",
+      "Couleur: Noir",
+      "Matériau principal: PLASTIQUE"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "2 articles seulement",
+    "marque": "Canon",
+    "type": "Imprimantes Professionnelles",
+    "machine":"impriments"
+  },
+  {
+    "id": 22,
+    "mainImg": "../public/imprimants/Imprimantes d'étiquettes/generique-printex-imprimante-thermique-direct-code-a-barre-x220/main.jpg",
+    "relatedImg": [
+      "../public/imprimants/Imprimantes d'étiquettes/generique-printex-imprimante-thermique-direct-code-a-barre-x220/main.jpg"
+
+    ],
+    "name": "Générique Printex Imprimante Thermique Direct Code à Barre - X220",
+    "price": "62,000",
+    "old_price": "64,000",
+    "sold": 20,
+    "caractéristiques": [
+      "Méthode d'impression : Transfert Thermique / Thermique Direct",
+      "Vitesse d'impression : 51-152 mm/s",
+      "Interface : USB + parallèle + série X220",
+      "Résolution d'impression : 203 ppp",
+      "Taille de point : 1mm = 8 points",
+      "Largeur d'impression : 104 mm ou 108 mm",
+      "Longueur d'impression : 2286 mm",
+      "Emulation : Compatible ZPL",
+      "Logiciel : dédié aux fins TEXTILE, donnant à l'utilisateur/opérateur tous les outils nécessaires pour créer et imprimer des étiquettes d'entretien à imprimer avec une imprimante à transfert thermique et plus encore.",
+      "Ruban OD : Max 67 mm",
+      "Longueur : Max 300 mm",
+      "Taille du noyau du ruban : 25.4 mm",
+      "Largeur du ruban : Max 110mm, Min 30 mm",
+      "Méthode d'enroulement du ruban : Roulement vers l'extérieur"
+    
+    ],
+    "DescTech": [
+      "SKU: YT578EA0FJVH8NAFAMZ",
+      "Modèle: x220",
+      "Taille (Longueur x Largeur x Hauteur cm): 27.8 x 21 x 18 cm",
+      "Poids (kg): 2.09"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "2 articles seulement",
+    "marque": "Génirique",
+    "type": "Imprimantes d'étiquettes",
+    "machine":"impriments"
+  },
+  {
+    "id": 23,
+    "mainImg": "../public/imprimants/Imprimantes d'étiquettes/epson-printers-imprimante-tickets-epson-t20x-051-usb/main.jpg",
+    "relatedImg": [
+      "../public/imprimants/Imprimantes d'étiquettes/epson-printers-imprimante-tickets-epson-t20x-051-usb/main.jpg"
+
+    ],
+    "name": "Epson Printers IMPRIMANTE TICKETS EPSON T20X 051 USB",
+    "price": "27,000",
+    "old_price": "28,150",
+    "sold": 20,
+    "caractéristiques": [
+      "Économique : Fonction de réduction de papier automatique.",
+      "Fiable : Durée de vie du mécanisme : 15 millions de lignes.",
+      "Grande vitesse d’impression : Vitesse d’impression de 200 mm/s.",
+      "Connectivité flexible : USB.",
+      "Tranquillité d’esprit : Epson est le premier fabricant d’imprimantes POS en Europe."
+    
+    ],
+    "DescTech": [
+      "SKU: EP564EA1L1JS0NAFAMZ",
+      "Modèle: 051",
+      "Poids (kg): 2",
+      "Couleur: NOIR"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "2 articles seulement",
+    "marque": "Epson Printers",
+    "type": "Imprimantes d'étiquettes",
+    "machine":"impriments"
+  },
+  {
+    "id": 24,
+    "mainImg": "../public/imprimants/Imprimantes d'étiquettes/sans-marque-mini-imprimante-portable-bluetooth-sans-encre-cadeaux-pour-enfants/main.jpg",
+    "relatedImg": [
+      "../public/imprimants/Imprimantes d'étiquettes/sans-marque-mini-imprimante-portable-bluetooth-sans-encre-cadeaux-pour-enfants/2.jpg",
+      "../public/imprimants/Imprimantes d'étiquettes/sans-marque-mini-imprimante-portable-bluetooth-sans-encre-cadeaux-pour-enfants/3.jpg",
+      "../public/imprimants/Imprimantes d'étiquettes/sans-marque-mini-imprimante-portable-bluetooth-sans-encre-cadeaux-pour-enfants/4.jpg",
+      "../public/imprimants/Imprimantes d'étiquettes/sans-marque-mini-imprimante-portable-bluetooth-sans-encre-cadeaux-pour-enfants/5.jpg",
+      "../public/imprimants/Imprimantes d'étiquettes/sans-marque-mini-imprimante-portable-bluetooth-sans-encre-cadeaux-pour-enfants/6.jpg",
+      "../public/imprimants/Imprimantes d'étiquettes/sans-marque-mini-imprimante-portable-bluetooth-sans-encre-cadeaux-pour-enfants/7.jpg"
+
+    ],
+    "name": "Mini imprimante portable Bluetooth Sans encre, cadeaux pour enfants",
+    "price": "3,590",
+    "old_price": "5,800",
+    "sold": 38,
+    "caractéristiques": [
+      "Technologie d'impression thermique sans encre pour une utilisation économique et respectueuse de l'environnement.",
+      "Connectivité Bluetooth pour une impression sans fil à partir de vos appareils.",
+      "Fournie avec un chargeur et un rouleau de papier blanc pour une utilisation immédiate.",
+      "Créez des listes de courses et prenez des notes pour vos cours grâce à l'application FunPrint.",
+      "Idéale pour imprimer des photos de famille, de vos animaux de compagnie ou de vos propres œuvres d'art pour les exposer fièrement.",
+      "La fonctionnalité de prise de photos vous permet de capturer des moments et les imprimer instantanément pour créer des souvenirs tangibles et amusants."    
+    ],
+    "DescTech": [
+      "SKU: SA050EA0RVWTGNAFAMZ",
+      "Modèle: 0.1",
+      "Couleur: Blanc"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "2 articles seulement",
+    "marque": "Sans Marque",
+    "type": "Imprimantes d'étiquettes",
+    "machine":"impriments"
+  },
+  {
+    "id": 25,
+    "mainImg": "../public/imprimants/Imprimantes-jet-d'encre-ou-laser/xerox-imprimante-xerox-workcentre-6515-multifonction-laser-couleur-gris/main.jpg",
+    "relatedImg": [
+      "../public/imprimants/Imprimantes-jet-d'encre-ou-laser/xerox-imprimante-xerox-workcentre-6515-multifonction-laser-couleur-gris/2.jpg",
+      "../public/imprimants/Imprimantes-jet-d'encre-ou-laser/xerox-imprimante-xerox-workcentre-6515-multifonction-laser-couleur-gris/3.jpg",
+      "../public/imprimants/Imprimantes-jet-d'encre-ou-laser/xerox-imprimante-xerox-workcentre-6515-multifonction-laser-couleur-gris/4.jpg",
+      "../public/imprimants/Imprimantes-jet-d'encre-ou-laser/xerox-imprimante-xerox-workcentre-6515-multifonction-laser-couleur-gris/5.jpg"
+    
+
+
+    ],
+    "name": "Xerox Imprimante Xerox WorKCentre 6515-Multifonction laser couleur-Gris",
+    "price": "229,000",
+    "old_price": "248,000",
+    "sold": 15,
+    "caractéristiques": [
+      "Imprimante multifonction couleur compatible avec le format A4",
+      "Idéale pour les équipes de travail de 2 à 7 utilisateurs",
+      "Une productivité multifonction inégalée avec une incroyable qualité de couleur",
+      "Faible encombrement pour une intégration aisée à l'espace de travail, sur votre bureau ou en emplacement partagé",
+      "Couleur: Gris"
+    ],
+    "DescTech": [
+      "SKU: BR513EA026QEWNAFAMZ",
+      "Modèle: imprimante",
+      "Poids(kg):2",
+      "Couleur: Gris"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "2 articles seulement",
+    "marque": "Sans Marque",
+    "type": "Imprimantes d'étiquettes",
+    "machine":"impriments"
+  }
+],
+    "laptop":[
+  {
+    "id": 0,
+    "mainImg": "../public/laptop/hp/hp-laptop-15-dy2795wm-i5-1135g7-8go-256go-ssd-15.6/main.jpg",
+    "relatedImg": [
+      "../public/laptop/hp/hp-laptop-15-dy2795wm-i5-1135g7-8go-256go-ssd-15.6/main.jpg",
+      "../public/laptop/hp/hp-laptop-15-dy2795wm-i5-1135g7-8go-256go-ssd-15.6/2.jpg",
+      "../public/laptop/hp/hp-laptop-15-dy2795wm-i5-1135g7-8go-256go-ssd-15.6/3.jpg"
+    ],
+    "name": "Hp LAPTOP 15 DY2795WM I5 1135G7 8GO 256GO SSD 15.6''",
+    "price": "120,000",
+    "old_price": " 130,000",
+    "sold": 8,
+    "caractéristiques": [
+      "HP",
+      "LAPTOP 15 DY2795WM",
+      "NEUF SOUS EMBALLAGE",
+      "CPU CORE INTEL I5 1135G7",
+      "RAM 8GO DDR4X 3200MHZ",
+      "DISQUE 256GO SSD NVME",
+      "GRAPHIC INTEL UHD",
+      "ECRAN 15.6''"
+    ],
+    "DescTech": [
+      "SKU: HP017CL15AJ1ONAFAMZ",
+      "Modèle: LAPTOP 15 DY2795WM",
+      "Poids (kg): 3",
+      "Couleur: GRIS"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "Quelques articles restants",
+    "marque": "HP",
+    "type": "Laptops, ordinateurs portables",
+    "inStock": "true",
+    "machine":"laptop"
+
+  },
+  {
+    "id": 1,
+    "mainImg": "../public/laptop/hp/hp-laptop-15-fc0026nia-amd-ryzen3-7320u-8go-512go-ssd-15.6-6-mois-garantie/main.jpg",
+    "relatedImg": [
+      "../public/laptop/hp/hp-laptop-15-fc0026nia-amd-ryzen3-7320u-8go-512go-ssd-15.6-6-mois-garantie/main.jpg",
+      "../public/laptop/hp/hp-laptop-15-fc0026nia-amd-ryzen3-7320u-8go-512go-ssd-15.6-6-mois-garantie/2.jpg",
+      "../public/laptop/hp/hp-laptop-15-fc0026nia-amd-ryzen3-7320u-8go-512go-ssd-15.6-6-mois-garantie/3.jpg"
+    ],
+    "name": "Hp LAPTOP 15 FC0026NIA AMD RYZEN3 7320U 8GO 512GO SSD 15.6'' 6 MOIS GARANTIE",
+    "price": "93,000",
+    "old_price": " 99,000",
+    "sold": 9,
+    "caractéristiques": [
+      "HP LAPTOP 15",
+      "FC0026NIA",
+      "NEUF SOUS EMBALLAGE",
+      "AMD RYZEN 3 7320U 2.4GHZ",
+      "RAM 8GO DDR5 4800MHZ",
+      "DISQUE 256GO SSD NVME",
+      "WIFI/BLUETOOTH/WEB CAM",
+      "USB 3.1",
+      "GRAPHIC",
+      "AMD RADEON GRAPHIC",
+      "ECRAN 15.6\" FULL HD",
+      "ANTIREFLET"
+    ],
+    "DescTech": [
+      "SKU: HP017CL1ELSHONAFAMZ",
+      "Modèle: FC0026NIA",
+      "Poids (kg): 2",
+      "Couleur: SILVER"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "Quelques articles restants",
+    "marque": "HP",
+    "type": "Laptops, ordinateurs portables",
+    "inStock": "true",
+    "machine":"laptop"
+
+  },
+  {
+    "id": 2,
+    "mainImg": "../public/laptop/hp/hp-laptop-15-dw3023-i3-1115g4-256ssd-4gb-ddr4-15.6-f.dos-sacoche-offerte-gris/main.jpg",
+    "relatedImg": [
+      "../public/laptop/hp/hp-laptop-15-dw3023-i3-1115g4-256ssd-4gb-ddr4-15.6-f.dos-sacoche-offerte-gris/main.jpg",
+      "../public/laptop/hp/hp-laptop-15-dw3023-i3-1115g4-256ssd-4gb-ddr4-15.6-f.dos-sacoche-offerte-gris/2.jpg",
+      "../public/laptop/hp/hp-laptop-15-dw3023-i3-1115g4-256ssd-4gb-ddr4-15.6-f.dos-sacoche-offerte-gris/3.jpg"
+    ],
+    "name": "Hp Laptop-15 DW3023 I3-1115G4-256SSD-4GB DDR4-15.6'-F.DOS + Sacoche Offerte - Gris",
+    "price": "89,800",
+    "old_price": " 95,000",
+    "sold": 11,
+    "caractéristiques": [
+      "Microprocesseur",
+      "Processeur Intel® Core™ i3",
+      "Chipset",
+      "Carte Intel® intégrée",
+      "Mémoire, standard",
+      "4 Go de mémoire SDRAM DDR4-2666 ( 4 Go)",
+      "Carte graphique",
+      "Carte graphique Intel® Iris® Xᵉ",
+      "Intégré",
+      "Disque dur",
+      "Disque SSD PCIe® NVMe™ M.2 256 Go",
+      "Lecteur optique",
+      "Lecteur optique non fourni",
+      "Écran",
+      "Écran HD de 39,6 cm (15,6 pouces) de diagonale",
+      "Clavier",
+      "Clavier noir profond, de grande taille avec pavé numérique",
+      "Connectivité sans fil",
+      "Carte combinée Realtek RTL8821CE-M Wi-Fi® 802.11a/b/g/n/ac (1×1) et Bluetooth® 4.2",
+      "Interface réseau",
+      "LAN GbE 10/100/1000 intégré",
+      "Connecteurs d’extension",
+      "1 lecteur de cartes multimédias SD multiformat",
+      "Ports externes",
+      "1 port USB Type-C® SuperSpeed, vitesse de transfert de 5 Go/s; 2 ports USB Type-A SuperSpeed, vitesse de transfert 5 Gbit/s; 1 port HDMI 1.4b; 1 port RJ-45; 1 prise secteur Smart Pin; 1 prise combinée casque/microphone",
+      "Dimensions minimales (L x P x H)",
+      "35,85 x 24,2 x 1,99 cm",
+      "Poids",
+      "1,75 kg",
+      "Type de source d’alimentation",
+      "Adaptateur secteur intelligent 45 W",
+      "Détail sur le type de batterie",
+      "Li-ion 3 cellules 41 Wh",
+      "Autonomie de la batterie en usage mixte",
+      "Jusqu’à 7 heures et 15 minutes",
+      "Autonomie de la batterie avec lecture vidéo",
+      "Jusqu’à 9 heures et 30 minutes",
+      "Webcam",
+      "Caméra HP True Vision HD 720p avec microphones numériques à double entrée intégrée",
+      "Fonctions audio",
+      "Doubles haut-parleurs",
+      "Système d’exploitation",
+      "Windows 10 Famille 64",
+      "HP apps",
+      "HP 3D DriveGuard; Commutateur audio HP; HP CoolSense; HP JumpStart; HP Support Assistant",
+      "Logiciels fournis",
+      "McAfee LiveSafe™",
+      "Logiciels préinstallés",
+      "Netflix; ExpressVPN (30 jours d’essai gratuit)",
+      "Logiciels -Productivité et finance"
+    ],
+    "DescTech": [
+      "SKU: HP017CL0VVD64NAFAMZ",
+      "Modèle: DW3023",
+      "Poids (kg): 0.3",
+      "Couleur: Gris"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "Quelques articles restants",
+    "marque": "HP",
+    "type": "Laptops, ordinateurs portables",
+    "inStock": "true",
+    "machine":"laptop"
+
+  },
+  {
+    "id": 3,
+    "mainImg": "../public/laptop/hp/hp-laptop-2en1-hp-envy-x360-15-ew-1073cl-i7-1355u-32go-1000go-ssd-15.6-ecran-tactile-avec-stylet/main.jpg",
+    "relatedImg": [
+      "../public/laptop/hp/hp-laptop-2en1-hp-envy-x360-15-ew-1073cl-i7-1355u-32go-1000go-ssd-15.6-ecran-tactile-avec-stylet/main.jpg",
+      "../public/laptop/hp/hp-laptop-2en1-hp-envy-x360-15-ew-1073cl-i7-1355u-32go-1000go-ssd-15.6-ecran-tactile-avec-stylet/2.jpg",
+      "../public/laptop/hp/hp-laptop-2en1-hp-envy-x360-15-ew-1073cl-i7-1355u-32go-1000go-ssd-15.6-ecran-tactile-avec-stylet/3.jpg"
+    ],
+    "name": "Hp LAPTOP 2EN1 HP ENVY X360 15 EW-1073CL i7 1355U 32GO 1000GO SSD 15.6 ECRAN TACTILE AVEC STYLET",
+    "price": "210,000",
+    "old_price": " 225,000",
+    "sold": 7,
+    "caractéristiques": [
+      "HP ENVY X360 2IN1",
+      "15-EW1073CL",
+      "2023",
+      "NEUF SOUS EMBALLAGE",
+      "ECRAN 15.6\" FHD OLED IPS TACTILE CONVERTIBLE",
+      "+STYLET",
+      "CPU INTEL CORE I7 1355U 3.7GHZ",
+      "BOOST 5.0GHZ 10CORES 12 THREADS",
+      "RAM 32 GO DDR4X 3200MHZ",
+      "DISQUE 1000 GO 1TO SSD NME",
+      "WIFI/BLUETOOTH/WEB CAM USB 3.1",
+      "GRAPHIC INTEL IRIS XE GRAPHIC",
+      "ANTIREFLET IPS",
+      "TACTILE CONVERTIBLE",
+      "CLAVIER RETRO ECLAIRE"
+    ],
+    "DescTech": [
+      "SKU: HP017CL0QSGAKNAFAMZ",
+      "Modèle: EW-1073CL",
+      "Poids (kg): 2",
+      "Couleur: SILVER"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "Quelques articles restants",
+    "marque": "HP",
+    "type": "Laptops, ordinateurs portables",
+    "inStock": "true",
+    "machine":"Laptop"
+
+  },
+  {
+    "id": 4,
+    "mainImg": "../public/laptop/hp/hp-envy-x360-2en1-15-ey1077wm-amd-ryzen-5-7530u-12go-256go-15.6-tactile-neuf-sous-emballage/main.jpg",
+    "relatedImg": [
+      "../public/laptop/hp/hp-envy-x360-2en1-15-ey1077wm-amd-ryzen-5-7530u-12go-256go-15.6-tactile-neuf-sous-emballage/main.jpg",
+      "../public/laptop/hp/hp-envy-x360-2en1-15-ey1077wm-amd-ryzen-5-7530u-12go-256go-15.6-tactile-neuf-sous-emballage/2.jpg",
+      "../public/laptop/hp/hp-envy-x360-2en1-15-ey1077wm-amd-ryzen-5-7530u-12go-256go-15.6-tactile-neuf-sous-emballage/3.jpg",
+      "../public/laptop/hp/hp-envy-x360-2en1-15-ey1077wm-amd-ryzen-5-7530u-12go-256go-15.6-tactile-neuf-sous-emballage/4.jpg"
+    ],
+    "name": "Hp ENVY X360 2EN1 15-EY1077WM AMD RYZEN 5 7530U 12GO 256GO 15.6'' TACTILE NEUF SOUS EMBALLAGE",
+    "price": "159,000",
+    "old_price": " 169,000",
+    "sold":6,
+    "caractéristiques": [
+      "HP ENVY X360 2IN1",
+      "15-EW1073CL",
+      "2023",
+      "NEUF SOUS EMBALLAGE",
+      "ECRAN 15.6\" FHD OLED IPS TACTILE CONVERTIBLE",
+      "+STYLET",
+      "CPU INTEL CORE I7 1355U 3.7GHZ",
+      "BOOST 5.0GHZ 10CORES 12 THREADS",
+      "RAM 32 GO DDR4X 3200MHZ",
+      "DISQUE 1000 GO 1TO SSD NME",
+      "WIFI/BLUETOOTH/WEB CAM USB 3.1",
+      "GRAPHIC INTEL IRIS XE GRAPHIC",
+      "ANTIREFLET IPS",
+      "TACTILE CONVERTIBLE",
+      "CLAVIER RETRO ECLAIRE"
+ 
+    ],
+    "DescTech": [
+      "SKU: HP017CL1KK4JGNAFAMZ",
+      "Modèle: EY1077WM",
+      "Poids (kg): 2",
+      "Couleur: GRIS"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "Quelques articles restants",
+    "marque": "HP",
+    "type": "Laptops, ordinateurs portables",
+    "inStock": "true",
+    "machine":"laptop"
+
+  },
+  {
+    "id": 5,
+    "mainImg": "../public/laptop/acer/acer-laptop-acer-aspire-3-a315-50g-59fh-i5-12eme-8go-ram-1to-hdd-ecran-156-double-carte-graphique/main.jpg",
+    "relatedImg": [
+      "../public/laptop/acer/acer-laptop-acer-aspire-3-a315-50g-59fh-i5-12eme-8go-ram-1to-hdd-ecran-156-double-carte-graphique/main.jpg",
+      "../public/laptop/acer/acer-laptop-acer-aspire-3-a315-50g-59fh-i5-12eme-8go-ram-1to-hdd-ecran-156-double-carte-graphique/2.jpg",
+      "../public/laptop/acer/acer-laptop-acer-aspire-3-a315-50g-59fh-i5-12eme-8go-ram-1to-hdd-ecran-156-double-carte-graphique/3.jpg"
+    ],
+    "name": "Acer LAPTOP ACER ASPIRE 3 A315-50G-59FH I5 12EME 8GO RAM 1TO HDD ECRAN 15,6 DOUBLE CARTE GRAPHIQUE",
+    "price": "138,000",
+    "old_price": " 179,000",
+    "sold":23,
+    "caractéristiques": [
+      "Modèle: ACER ASPIRE 3 A315-50G-59FH",
+      "Processeur: Intel Core I5 1235U, 3.3GHz Boost 4.4GHz",
+      "Cœurs: 10 (8 cœurs efficaces), Cache: 12MO",
+      "RAM: 8GO DDR4X, 4267MHz",
+      "Disque dur: 1000 GO HDD",
+      "Connectivité: WIFI, BLUETOOTH, WEB CAM, USB 3.1",
+      "Carte graphique: Intel Iris Xe + NVIDIA GeForce MX550, 2GO GDDR6, Boost 6GO",
+      "Bande passante: 96GO/S",
+      "Écran: 15.6'', FULL HD 1080P LED",
+      "Système d'exploitation: WINDOWS 10 PRO",
+      "Écran: ANTIREFLET IPS"
+ 
+    ],
+    "DescTech": [
+      "SKU : AC008CL1441Q4NAFAMZ",
+      "Modèle : ASPIRE 3 A315-50G-59FH",
+      "Poids (kg) : 2",
+      "Couleur : SILVER"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "Quelques articles restants",
+    "marque": "Acer",
+    "type": "Laptops, ordinateurs portables",
+    "inStock": "true",
+    "machine":"laptop"
+
+  },
+  {
+    "id": 6,
+    "mainImg": "../public/laptop/asus/asus-vivobook-x515f-i3-10110u-4go-1000go-ssd-15.6/main.jpg",
+    "relatedImg": [
+      "../public/laptop/asus/asus-vivobook-x515f-i3-10110u-4go-1000go-ssd-15.6/main.jpg",
+      "../public/laptop/asus/asus-vivobook-x515f-i3-10110u-4go-1000go-ssd-15.6/2.jpg",
+      "../public/laptop/asus/asus-vivobook-x515f-i3-10110u-4go-1000go-ssd-15.6/3.jpg",
+      "../public/laptop/asus/asus-vivobook-x515f-i3-10110u-4go-1000go-ssd-15.6/4.jpg"
+    ],
+    "name": "Asus VIVOBOOK X515F I3 10110U 4GO 1000GO SSD 15.6''",
+    "price": "89,000",
+    "old_price": " 95,000",
+    "sold":6,
+    "caractéristiques": [
+      "ASUS VIVOBOOK 15",
+      "X515F",
+      "2022",
+      "NEUF SOUS EMBALLAGE",
+      "CPU INTEL CORE I3 10110U 2.1GHZ",
+      "BOOST 4.IGHZ 4COEURS 4MO CACHE",
+      "RAM 4GO DDR4 2667MHZ",
+      "DISQUE 1000GO SSD",
+      "WIF//BLUETOOTH/WEB CAM",
+      "USB 3.1",
+      "GRAPHIC",
+      "INTEL UHD GRAPHIC",
+      "ECRAN 15.6\" HD LED",
+      "ANTIREFLET"
+    
+    ],
+    "DescTech": [
+  "SKU: AS040CL0GUIHONAFAMZ",
+  "Modèle: VIVOBOOK X515F",
+  "Poids (kg): 2",
+  "Couleur: GRIS"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "Quelques articles restants",
+    "marque": "Azus",
+    "type": "Laptops, ordinateurs portables",
+    "inStock": "true",
+    "machine":"laptop"
+
+  },
+  {
+    "id": 7,
+    "mainImg": "../public/laptop/asus/asus-vivobook-16-a1605v-i5-1335u-16go-512go-ssd-15.6-6-mois-garantie/main.jpg",
+    "relatedImg": [
+      "../public/laptop/asus/asus-vivobook-16-a1605v-i5-1335u-16go-512go-ssd-15.6-6-mois-garantie/main.jpg",
+      "../public/laptop/asus/asus-vivobook-16-a1605v-i5-1335u-16go-512go-ssd-15.6-6-mois-garantie/2.jpg",
+      "../public/laptop/asus/asus-vivobook-16-a1605v-i5-1335u-16go-512go-ssd-15.6-6-mois-garantie/3.jpg",
+      "../public/laptop/asus/asus-vivobook-16-a1605v-i5-1335u-16go-512go-ssd-15.6-6-mois-garantie/4.jpg"
+    ],
+    "name": "Asus VIVOBOOK 16 A1605V I5 1335U 16GO 512GO SSD 15.6'' 6 MOIS GARANTIE",
+    "price": "139,000",
+    "old_price": " 149,000",
+    "sold":7,
+    "caractéristiques": [
+      "ASUS VIVOBOOK 16",
+      "A1605V",
+      "2024",
+      "NEUF SOUS EMBALLAGE",
+      "CPU INTEL CORE I5 1335U 3.4GHZ",
+      "BOOST 4.6GHZ 10CORES 12 THREADS 12MO CACHE",
+      "RAM 16 GO DDR4X 3200MHZ",
+      "DISQUE 512 GO SSD NVME",
+      "WIFI/BLUETOOTH/WEB CAM USB 3.1",
+      "GRAPHIC INTEL UHD GRAPHIC",
+      "ECRAN 16\" FULL HD 1080P LED ANTIREFLET IPS",
+      "CLAVIER RETRO ECLAIRE"
+    ],
+    "DescTech": [
+      "SKU: AS040CL03KJP8NAFAMZ",
+      "Modèle: VIVOBOOK 16 A1605V",
+      "Poids (kg): 2",
+      "Couleur: SILVER"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "Quelques articles restants",
+    "marque": "Azus",
+    "type": "Laptops, ordinateurs portables",
+    "inStock": "true",
+    "machine":"laptop"
+
+  },
+  {
+    "id": 8,
+    "mainImg": "../public/laptop/asus/asus-vivobook-go-ryzen-5-7520u-8go-512-ssd-ecran-15-vert/main.jpg",
+    "relatedImg": [
+      "../public/laptop/asus/asus-vivobook-go-ryzen-5-7520u-8go-512-ssd-ecran-15-vert/main.jpg",
+      "../public/laptop/asus/asus-vivobook-go-ryzen-5-7520u-8go-512-ssd-ecran-15-vert/2.jpg",
+      "../public/laptop/asus/asus-vivobook-go-ryzen-5-7520u-8go-512-ssd-ecran-15-vert/3.jpg",
+      "../public/laptop/asus/asus-vivobook-go-ryzen-5-7520u-8go-512-ssd-ecran-15-vert/5.jpg",
+      "../public/laptop/asus/asus-vivobook-go-ryzen-5-7520u-8go-512-ssd-ecran-15-vert/6.jpg"
+    ],
+    "name": "Asus VIVOBOOK GO RYZEN 5 7520U 8GO 512 SSD ECRAN 15'' VERT",
+    "price": "118,000",
+    "old_price": " 128,000",
+    "sold":7,
+    "caractéristiques": [
+      "ASUS VIVOBOOK GO",
+      "E1504F",
+      2024,
+      "NEUF SOUS EMBALLAGE",
+      "CPU AMD RYZEN 5 7520U 2.8GHZ",
+      "BOOST 4.5GHZ 4COEURS 8THREADS 4MO CACHE",
+      "RAM 8 GO DDR5 4800MHZ",
+      "DISQUE 512 GO SSD NVME",
+      "WIFI/BLUETOOTH/WEB CAM USB 3.1",
+      "GRAPHIC AMD RADEON GRAPHIC",
+      "ECRAN 15.6\" FULL HD 1080P LED ANTIREFLET IPS"
+    
+    ],
+    "DescTech": [
+      "SKU: AS040CL0YY3A4NAFAMZ",
+      "Modèle: E1504F",
+      "Poids (kg): 2",
+      "Couleur: VERT"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "Quelques articles restants",
+    "marque": "Azus",
+    "type": "Laptops, ordinateurs portables",
+    "inStock": "true",
+    "machine":"laptop"
+
+  },
+  {
+    "id": 9,
+    "mainImg": "../public/laptop/dell/dell-laptop-vostro-3510-i5-10gen-1tb-hdd-ram-4g-ddr4-15.6-gris/main.jpg",
+    "relatedImg": [
+      "../public/laptop/dell/dell-laptop-vostro-3510-i5-10gen-1tb-hdd-ram-4g-ddr4-15.6-gris/main.jpg",
+      "../public/laptop/dell/dell-laptop-vostro-3510-i5-10gen-1tb-hdd-ram-4g-ddr4-15.6-gris/2.jpg",
+      "../public/laptop/dell/dell-laptop-vostro-3510-i5-10gen-1tb-hdd-ram-4g-ddr4-15.6-gris/3.jpg",
+      "../public/laptop/dell/dell-laptop-vostro-3510-i5-10gen-1tb-hdd-ram-4g-ddr4-15.6-gris/5.jpg",
+      "../public/laptop/dell/dell-laptop-vostro-3510-i5-10gen-1tb-hdd-ram-4g-ddr4-15.6-gris/6.jpg"
+    ],
+    "name": "DELL Laptop INSPIRON I5 -15 256SSD/8G RAM WIN 11 HOME S-MODE I3511-5829BLK-PUS + sacoche offerte + Noir",
+    "price": "140,300",
+    "old_price": " 144,500",
+    "sold":12,
+    "caractéristiques": [
+      "Intel Core™ i5-1165G7 (12 Mo de cache, jusqu'à 4,70 GHz, 4 Cœurs, 8 Threads)",
+      "Mémoire vive installée : 8GB de mémoire DDR4 à 3 200 MHz",
+      "Capacité disque dur : HDD SATA 1TB à 5400 rpm",
+      "Ecran : 15.6 Pouces, Full HD (1 920x1 080), 60Hz, WVA, LED-Backlight",
+      "Carte graphique : NVIDIA® GeForce® MX350, 2GB GDDR5 Dédié",
+      "Audio : Haut-parleurs stéréo, 2 x 2 W = 4 W au total",
+      "Réseau LAN /WiFi / Bluetooth : RJ45 + 802.11ac 1x1 Wi-Fi + Bluetooth",
+      "Connectivite : 1x port USB 3.2 Gen 1 + 1x port USB-C 3.2 Gen 1 + 1x port USB 2.0 + 1x prise jack audio + 1x port HDMI 1.4 + 1x port RJ45 inclinable vers le bas 10/100/1 000 Mbit/s",
+      "Systeme : FreeDOS"
+    
+    ],
+    "DescTech": [
+      "SKU: DE014CL08NGKSNAFAMZ",
+      "Modèle: VOSTRO 3510",
+      "Poids (kg): 0.3",
+      "Couleur: Gris"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "Quelques articles restants",
+    "marque": "Dell",
+    "type": "Laptops, ordinateurs portables",
+    "inStock": "true",
+    "machine":"laptop"
+
+  },
+  {
+    "id": 10,
+    "mainImg": "../public/laptop/lenovo/lenovo-laptop-ideapad-slim-3-15irh8-i5-13th-8go-512go-ssd-15.6/main.jpg",
+    "relatedImg": [
+      "../public/laptop/lenovo/lenovo-laptop-ideapad-slim-3-15irh8-i5-13th-8go-512go-ssd-15.6/main.jpg",
+      "../public/laptop/lenovo/lenovo-laptop-ideapad-slim-3-15irh8-i5-13th-8go-512go-ssd-15.6/2.jpg",
+      "../public/laptop/lenovo/lenovo-laptop-ideapad-slim-3-15irh8-i5-13th-8go-512go-ssd-15.6/3.jpg",
+      "../public/laptop/lenovo/lenovo-laptop-ideapad-slim-3-15irh8-i5-13th-8go-512go-ssd-15.6/4.jpg"
+    ],
+    "name": "Lenovo Laptop ideapad slim 3 15irh8 I5 13TH 8GO 512GO SSD 15.6''",
+    "price": "125,000",
+    "old_price": " 126,500",
+    "sold":12,
+    "caractéristiques": [
+      "LENOVO",
+      "IDEAPAD 3",
+      "NEUF SOUS EMBALLAGE",
+      "CPU INTEL I5 13420H",
+      "RAM 8GO DDR4X 3200MHZ",
+      "DISQUE 512GO SSD",
+      "WIFI/BLUETOOTH/WEB CAM",
+      "USB 3.1",
+      "GRAPHIC",
+      "INTEL UHD",
+      "ECRAN 15.6'"
+    ],
+    "DescTech": [
+      "SKU: LE018CL0BECRGNAFAMZ",
+      "Modèle: ideapad slim 3 15irh8",
+      "Poids (kg): 3",
+      "Couleur: GRIS"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "Quelques articles restants",
+    "marque": "Lenovo",
+    "type": "Laptops, ordinateurs portables",
+    "inStock": "true",
+    "machine":"laptop"
+
+  },
+  {
+    "id": 11,
+    "mainImg": "../public/laptop/samsung/samsung-galaxybook2-750xe-i5-1235u-8256go-ssd-15.6-w11/main.jpg",
+    "relatedImg": [
+      "../public/laptop/samsung/samsung-galaxybook2-750xe-i5-1235u-8256go-ssd-15.6-w11/main.jpg",
+      "../public/laptop/samsung/samsung-galaxybook2-750xe-i5-1235u-8256go-ssd-15.6-w11/2.jpg",
+      "../public/laptop/samsung/samsung-galaxybook2-750xe-i5-1235u-8256go-ssd-15.6-w11/3.jpg",
+      "../public/laptop/samsung/samsung-galaxybook2-750xe-i5-1235u-8256go-ssd-15.6-w11/4.jpg"
+    ],
+    "name": "Samsung galaxybook2 750xe I5 1235U 8/256GO SSD 15.6' W11",
+    "price": "145,000",
+    "old_price": " 169,000",
+    "sold":14,
+    "caractéristiques": [
+      "CPU INTEL CORE I5 1235U",
+      "8GO DE RAM",
+      "256GO SSD",
+      "INTEL IRIS XE",
+      "ECRAN 15.6'' 1080P",
+      "WINDOWS 11"
+    ],
+    "DescTech": [
+      "SKU: SA024CL1MY2OCNAFAMZ",
+      "Modèle: galaxybook2 750xe",
+      "Poids (kg): 2",
+      "Couleur: NOIR"
+    ],
+    "reviews": [
+      {
+        "name": "Chikh-Salah Ali",
+        "username": "@CS_ali",
+        "img": "../../public/profile.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys .",
+        "reviewDate": "12-05-2024",
+        "rate": "4.0"
+      },
+      {
+        "name": "Hadj-Moussa Said",
+        "username": "@HM_ahmed",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "31-08-2022",
+        "rate": "3.0"
+      },
+      {
+        "name": "Bahadi Mohammed",
+        "username": "@b_moh",
+        "img": "../../public/man.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "24-06-2024",
+        "rate": "5.0"
+      },
+      {
+        "name": "Dermoune Djaber",
+        "username": "@max_free",
+        "img": "../../public/user.png",
+        "opinion": "This was a good product with a good value and less price the delivery service was fast too I recommand it for you guys.",
+        "reviewDate": "10-10-2023",
+        "rate": "4.0"
+      }
+    ],
+    "availability": "Quelques articles restants",
+    "marque": "Samsung",
+    "type": "Laptops, ordinateurs portables",
+    "inStock": "true",
+    "machine":"laptop"
+
+  }
+]
+}
+]
